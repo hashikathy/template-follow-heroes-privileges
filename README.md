@@ -1,0 +1,1 @@
+# template-follow-heroes-privileges
